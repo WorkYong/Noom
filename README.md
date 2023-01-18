@@ -1,10 +1,10 @@
-# 주식회사 하이 - Admin용 데이터 관리 프로그램 만들기
+# 줌 
 ![JavaScript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)&nbsp;
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Socket.io-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/WebRTC-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/>&nbsp;
-## 🏥 개요
+## 개요
 
 줌을 클론코딩한 실시간 채팅 및 화상 통화 앱입니다.
 
